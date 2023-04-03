@@ -1,5 +1,5 @@
 /*
-  ESP32 HTML WebServer Page Code
+  NodeMCU HTML WebServer Page Code
 */
 
 const char html_page[] PROGMEM = R"RawString(
